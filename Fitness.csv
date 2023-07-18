@@ -1,0 +1,13 @@
+﻿SALESMAN,JAN,FEB,MAR,APR,MAY,JUN,TOTAL SALES,,,,
+ANU,70,80,75,60,72,55,412,,,,
+BABU,30,48,35,45,25,37,220,,,,1. Individual Sales using Sum()
+CHANDRU,65,54,49,54,35,65,322,,,,2. Find the pattern trend using conditional formatting in home page
+DAVID,85,71,68,77,88,73,462,,,,3. Analyze using Pivot table as column percentage
+EINSTEIN,55,25,45,50,53,30,258,,,,4. Insert Pivot charts
+FAROOK,35,45,15,45,45,25,210,,,,5. Rank() - returns the rank of a given value by comparing  a list of numeric values. 
+GOWTHAM,75,66,59,65,56,30,351,,,,
+HARSHITH,29,35,49,48,35,55,247,,,,33
+INIYAN,35,35,50,59,67,73,319,,,,
+JOHN,77,85,77,68,56,25,388,,,,
+MONTHLY SALES,556,544,522,571,532,468,,3193,,,
+,,,,,,,3189,,,,
